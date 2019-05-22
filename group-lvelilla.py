@@ -1,0 +1,2 @@
+def tweet():
+	return "I often see the time 11:11 or 12:34 on clocks."
